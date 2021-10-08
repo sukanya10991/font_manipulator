@@ -1,0 +1,13 @@
+body {
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    color: silver;
+}
+
+div {
+    border-style: solid;
+    border-width: 2px;
+    border-color: silver;
+    border-radius: 20px;
+    width: 95%;
+}
